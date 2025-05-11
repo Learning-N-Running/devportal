@@ -42,13 +42,13 @@ To explore Account Abstraction with Etherspot, follow these steps:
 1. Clone the Wagmi starter kit repository:
 
 ```sh
-git clone https://github.com/wagmi-dev/wagmi-starter-kit.git
+git clone https://github.com/rsksmart/rsk-wagmi-starter-kit.git
 ```
 
 2. Navigate to the project directory:
 
 ```javascript
-cd wagmi-starter-kit
+cd rsk-wagmi-starter-kit
 ```
 
 3. Instead of using the main branch, switch to the branch containing the Account Abstraction functionalities:
